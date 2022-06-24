@@ -1,8 +1,8 @@
 const footer = document.createElement('footer');
 footer.className = 'footer';
 footer.innerHTML = `<div class="footer-content margin-x">
-  <a class="link-resume" href="#About">Get my Resume <img class="link-image" src="./src/assets/images/ic_link_teal.svg"
-      alt="linkArrow"></a>
+  <a class="link-resume" href="#About">Get my Resume <span style="margin-left: 6px;" class="fa fa-download">
+  </a>
   <ul class="links-to-social">
     <li><a class="link-to-social" href="https://stackoverflow.com/users/16168440/leboroz"><i class="fab fa-stack-overflow"></i></a></li>
     <li><a class="link-to-social" href="https://twitter.com/Leboroz"><i class="fab fa-twitter"></i></a></li>
