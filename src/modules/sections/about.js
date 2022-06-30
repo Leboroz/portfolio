@@ -3,14 +3,19 @@ about.id = 'About';
 about.className = 'about-section margin-x margin-top';
 about.innerHTML = `<article id="aboutHeader" class="about-header">
 <h1 class="display-1">About</h1>
-<p class="par">Hello! My name is Leonardo Albornoz and I'm a full-stack web developer gradated from Microverse, a remote software development school.
-
-At Microverse, I code every day with other developers around the world and have learned the important skills of communication through
+<p class="par">
+Hello! My name is Leonardo Albornoz and I'm a full-stack web developer gradated from Microverse, a remote software development school.
+At Microverse, I learned the important skills of communication through
 remote pair-programming using GitHub, industry-standard git-flow, and daily stand-ups to communicate and collaborate with
-international remote developers. 
-Currently, I am learning machine learning because I am very interested in AI.
+international remote developers.
+</p>
+<p class="par">
+Currently, I am studying machine learning because I am very interested in AI.
+</p>
+<p class="par">
 I love coding specifically because I love the puzzle-solving aspect of it. I'm the sort of person who does DSA problems for fun.
-In my free time, I learn new things, play video games, and read.</p>
+In my free time, I learn new things, play video games, and read.
+</p>
 </article>
 <article class="squares-wrapper">
   <div class="square square-1">
