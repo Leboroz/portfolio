@@ -29,7 +29,7 @@ To get a local copy up follow these simple example steps.
 
 Open a terminal or a git bash in the desired directory and run 
 ```bash
-git clone https://github.com/Leboroz/personal-portfolio.git
+git clone https://github.com/Leboroz/portfolio.git
 ```
 
 ## Authors
