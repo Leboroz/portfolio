@@ -78,7 +78,7 @@ const openModal = (e) => {
   const modalTop = document.createElement('div');
   modalTop.className = 'top';
   modalTop.innerHTML = `<h1 class="display-2">${project.title}</h1>
-      <span id="close_modal" class="close-modal">x</span>`;
+      <span id="close_modal" class="close-modal fas fa-times"></span>`;
   const languages = document.createElement('ul');
   languages.className = 'modal-languages';
   for (let i = 0; i < project.languages; i += 1) {

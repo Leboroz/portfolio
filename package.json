@@ -1,6 +1,6 @@
 {
   "name": "personal-portfolio",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
   "main": "index.js",
   "scripts": {

@@ -28,6 +28,7 @@
     min-height: 100vh;
     background-color: #fff;
     padding: 4.615384615%;
+    position: relative;
 
     @include custom.respond-above(lg) {
       padding: 60px;
