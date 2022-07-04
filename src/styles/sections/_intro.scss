@@ -3,14 +3,12 @@
 .intro-section {
   @include custom.respond-above(lg) {
     display: flex;
+    align-items: center;
   }
-
-
 
   .content {
     @include custom.respond-above(lg) {
       width: 40%;
-      margin-top: 160px;
       display: flex;
       flex-direction: column;
       gap: 46px;
@@ -34,7 +32,7 @@
       background-size: contain;
       background-repeat: no-repeat;
       width: 50%;
-      height: 877px;
+      height: 100%;
     }
   }
 }
@@ -48,7 +46,7 @@
   align-self: flex-end;
   margin-top: -30px;
 
-  @include custom.respond-above(lg) {
+  @include custom.respond-above(xxl) {
     display: block;
   }
 }
